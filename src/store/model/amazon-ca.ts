@@ -201,6 +201,14 @@ export const AmazonCa: Store = {
 			url: 'https://www.amazon.ca/dp/B0815Y8J9N'
 		},
 		{
+			brand: 'amd',
+			cartUrl:
+				'https://www.amazon.ca/gp/aws/cart/add.html?ASIN.1=B08N6ZLX9B&Quantity.1=1',
+			model: 'amd reference',
+			series: 'rx6800xt',
+			url: 'https://www.amazon.ca/dp/B08N6ZLX9B'
+		},
+		{
 			brand: 'sony',
 			cartUrl:
 				'https://www.amazon.ca/gp/aws/cart/add.html?ASIN.1=B08GSC5D9G&Quantity.1=1',
